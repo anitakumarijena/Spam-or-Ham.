@@ -1,4 +1,5 @@
 #### SPAM-OR-HAM
+This model finds whether the email is spam or ham,by knoeing the text.
 
 ### Install
 
